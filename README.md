@@ -1,4 +1,5 @@
 **このソフトはzipファイルを超えるテキスト系が得意な圧縮ソフトです**
+
 製作者soramame72
 webサイト https://soramame72.22web.org/software/sor/index.html
 
