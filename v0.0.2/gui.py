@@ -11,7 +11,7 @@ import string
 import datetime
 import tkinter.font as tkFont
 import sys
-sys.stderr = open('error.log', 'w')
+# error.logへのログ書き込みを無効化
 
 class SORApp(tk.Tk):
     def __init__(self):
